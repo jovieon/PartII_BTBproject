@@ -1,3 +1,4 @@
 # PartII_BTBproject
-Code used to produce results and figures for Part II Pathology project on the prospects of a BCG vaccine program in Great Britain: <br>
+Code used to produce results and figures for BA Pathology undergraduate research project on the prospects of a BCG vaccine program in Great Britain: <br>
 Bovine Tuberculosis (BTB) is a chronic infectious respiratory disease of cattle, primarily caused by _Mycobacterium bovis_. Present zoonotic risk of BTB in Great Britain is negligible but current test-and-slaughter measures place a significant socioeconomic burden on farmers and the government (APHA, 2022). Cattle vaccination has been proposed as a supplementary control measure. This project adapts a parsimonious, deterministic, two-host model from Brooks-Pollock & Wood (2015) to assess the prospects of using BCG vaccination in Great Britain, accounting for uncertainty around transmission dynamics and vaccine efficacy by exploring four plausible transmission scenarios and a wide parameter space. 
+Developed by: Joanna Vieira O'Neill, University of Cambridge.
